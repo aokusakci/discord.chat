@@ -1,8 +1,8 @@
 # This example requires the 'message_content' privileged intent to function.
-
+# bu bir denemeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 import discord
 import random
-import asyncio
+import asyncio 
 
 
 class MyClient(discord.Client):
